@@ -76,7 +76,7 @@ El trabajo está organizado en cinco hitos según la guía del proyecto:
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/velascocafe23/Tallerfinal_Velasco_Sebastian.git
+git clone https://github.com/Svelasco9223/Tallerfinal_Velasco_Sebastian.git
 cd Tallerfinal_Velasco_Sebastian
 
 # Crear entorno virtual (opcional pero recomendado)
@@ -118,4 +118,4 @@ Este proyecto se publica con fines académicos. Los datos provienen del dominio 
 
 **Sebastián Velasco Ardila**
 Maestría en Ciencia de Datos — Universidad Pontificia Bolivariana
-GitHub: [@velascocafe23](https://github.com/velascocafe23)
+GitHub: [@Svelasco9223](https://github.com/Svelasco9223)
